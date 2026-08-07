@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/System%20Engineering-1793D1?style=for-the-badge&logo=linux&logoColor=white" alt="System Engineering badge" />
   <img src="https://img.shields.io/badge/Cloud-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud badge" />
   <img src="https://img.shields.io/badge/Full--Stack-Building-0F172A?style=for-the-badge&logo=typescript&logoColor=white" alt="Full-Stack badge" />
-  <img src="https://img.shields.io/badge/%F0%9F%A5%B7%20Running%20Ninja-Arch%20Vibes-111827?style=for-the-badge" alt="Running ninja badge" />
 </p>
 
 <table>
@@ -38,7 +37,7 @@ I build practical products that combine **cloud systems**, **developer tooling**
   </tr>
 </table>
 
-## `skill map (project-oriented)`
+## `Skills`
 ```ts
 const skillMap: Record<string, string[]> = {
   "papers-for-windows": [
