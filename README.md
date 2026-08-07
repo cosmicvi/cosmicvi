@@ -73,7 +73,7 @@ const skillMap: Record<string, string[]> = {
 };
 ```
 
-## `certifications`
+## `Badges`
 <p>
   <a href="https://www.credly.com/badges/0338fe0f-6c86-4ae3-b7d8-3c6c80368175/public_url">
     <img src="https://github.com/user-attachments/assets/21380f92-a5f2-40a9-9438-4e9fa635c603" width="64" alt="Cloud Run Functions badge" />
