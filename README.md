@@ -1,7 +1,10 @@
-# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=900&color=1793D1&width=560&lines=harsh%40cosmicvi;System+Engineering+%7C+Cloud+%7C+Full-Stack" alt="typing banner" />
+# harsh@cosmicvi
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/33d3a083-b309-452f-94eb-6092f92c7ef6" width="900" alt="Harsh Mishra profile snapshot" />
+  <img src="https://img.shields.io/badge/System%20Engineering-1793D1?style=for-the-badge&logo=linux&logoColor=white" alt="System Engineering badge" />
+  <img src="https://img.shields.io/badge/Cloud-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud badge" />
+  <img src="https://img.shields.io/badge/Full--Stack-Building-0F172A?style=for-the-badge&logo=typescript&logoColor=white" alt="Full-Stack badge" />
+  <img src="https://img.shields.io/badge/%F0%9F%A5%B7%20Running%20Ninja-Arch%20Vibes-111827?style=for-the-badge" alt="Running ninja badge" />
 </p>
 
 <table>
@@ -35,22 +38,52 @@ I build practical products that combine **cloud systems**, **developer tooling**
   </tr>
 </table>
 
-## `2D skill map`
-```mermaid
-graph TD
-    A[Harsh Mishra] --> B[System Engineering]
-    A --> C[Cloud Platforms]
-    A --> D[Full-Stack Development]
-    A --> E[AI + Startup Building]
-    C --> C1[Terraform on GCP]
-    C --> C2[Compute Engine Load Balancing]
-    C --> C3[Cloud Run Serverless]
-    B --> B1[Secure Software Delivery]
-    D --> D1[Django / FastAPI]
-    D --> D2[Flutter Apps]
+## `skill map (project-oriented)`
+```ts
+const skillMap: Record<string, string[]> = {
+  "papers-for-windows": [
+    "Windows application engineering",
+    "Desktop UX for document workflows",
+    "Cross-project adaptation"
+  ],
+  "cat-bot": [
+    "Automation workflows",
+    "Commerce chatbot logic",
+    "Receipt/order handling"
+  ],
+  Taskboard: [
+    "Django backend development",
+    "Productivity-focused feature design",
+    "CRUD + data modeling"
+  ],
+  "tasker-2.0": [
+    "Flutter app development",
+    "Scheduling and streak logic",
+    "Mobile UX planning"
+  ],
+  "tracker-1.0": [
+    "Offline-first architecture",
+    "Flutter state/data handling",
+    "Media tracking features"
+  ],
+  "elemento-f": [
+    "Dart experimentation",
+    "Rust module exploration",
+    "Multi-module prototyping"
+  ]
+};
 ```
 
 ## `certifications`
+<p>
+  <a href="https://www.credly.com/badges/0338fe0f-6c86-4ae3-b7d8-3c6c80368175/public_url">
+    <img src="https://github.com/user-attachments/assets/21380f92-a5f2-40a9-9438-4e9fa635c603" width="320" alt="Cloud Run Functions badge" />
+  </a>
+  <a href="https://www.credly.com/badges/5d1f993b-09ec-4cef-a0e5-8cc4ecb40708/public_url">
+    <img src="https://github.com/user-attachments/assets/cb2eeaba-519a-4401-866d-86b6b10c9c8e" width="320" alt="Certification badge" />
+  </a>
+</p>
+
 | Track | What it shows | Credly |
 |---|---|---|
 | Secure Software Delivery | Building safer, production-ready software practices | [View](https://www.credly.com/badges/864b3f07-8b27-46c8-8e7d-46581fcabacc/public_url) |
@@ -59,7 +92,7 @@ graph TD
 | App Building with AppSheet | Rapid no-code/low-code app delivery workflows | [View](https://www.credly.com/badges/1eb16b3a-5ebe-4c38-aeda-562164eb235f/public_url) |
 | Building Serverless Applications with Cloud Run | Deploying scalable serverless workloads on Cloud Run | [View](https://www.credly.com/badges/0338fe0f-6c86-4ae3-b7d8-3c6c80368175/public_url) |
 
-## `original repos (non-fork)`
+## `Recent Projects`
 | Repo | What I built |
 |---|---|
 | [papers-for-windows](https://github.com/cosmicvi/papers-for-windows) | Native Windows port of GNOME Papers for modern multi-format document viewing |
@@ -68,4 +101,3 @@ graph TD
 | [tasker-2.0](https://github.com/cosmicvi/tasker-2.0) | Flutter 7-day scheduler with streak logic and sleep-aware planning |
 | [tracker-1.0](https://github.com/cosmicvi/tracker-1.0) | Offline-first Flutter tracker for Marvel media exploration |
 | [elemento-f](https://github.com/cosmicvi/elemento-f) | Multi-module Dart/Rust experimentation workspace |
-| [cosmicvi](https://github.com/cosmicvi/cosmicvi) | This profile repository |
