@@ -76,10 +76,10 @@ const skillMap: Record<string, string[]> = {
 ## `certifications`
 <p>
   <a href="https://www.credly.com/badges/0338fe0f-6c86-4ae3-b7d8-3c6c80368175/public_url">
-    <img src="https://github.com/user-attachments/assets/21380f92-a5f2-40a9-9438-4e9fa635c603" width="320" alt="Cloud Run Functions badge" />
+    <img src="https://github.com/user-attachments/assets/21380f92-a5f2-40a9-9438-4e9fa635c603" width="32" alt="Cloud Run Functions badge" />
   </a>
   <a href="https://www.credly.com/badges/5d1f993b-09ec-4cef-a0e5-8cc4ecb40708/public_url">
-    <img src="https://github.com/user-attachments/assets/cb2eeaba-519a-4401-866d-86b6b10c9c8e" width="320" alt="Certification badge" />
+    <img src="https://github.com/user-attachments/assets/cb2eeaba-519a-4401-866d-86b6b10c9c8e" width="32" alt="Certification badge" />
   </a>
 </p>
 
